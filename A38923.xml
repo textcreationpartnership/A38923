@@ -1,0 +1,409 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An Exact journal of the siege of Tangier from the first sitting down of the Moors before it on March 25, 1680 : to the late truce, May 19, following : in three letters / written by three eye-witnesses of the whole transaction.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1680</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 37 KB of XML-encoded text transcribed from 8 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A38923</idno>
+            <idno type="STC">Wing E3649</idno>
+            <idno type="STC">ESTC R8717</idno>
+            <idno type="EEBO-CITATION">13255519</idno>
+            <idno type="OCLC">ocm 13255519</idno>
+            <idno type="VID">98681</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A38923)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 98681)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 453:34)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An Exact journal of the siege of Tangier from the first sitting down of the Moors before it on March 25, 1680 : to the late truce, May 19, following : in three letters / written by three eye-witnesses of the whole transaction.</title>
+               </titleStmt>
+               <extent>[2], 13 p.   </extent>
+               <publicationStmt>
+                  <publisher>for Joseph Hindmarsh ...,</publisher>
+                  <pubPlace>Printed at London :</pubPlace>
+                  <date>1680.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Tangier (Morocco) --  History --  Siege, 1680.</term>
+               <term>Great Britain --  History, Military --  1603-1714 --  Sources.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-03</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-04</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-06</date>
+            <label>Ali Jakobson</label>Sampled and proofread</change>
+         <change>
+            <date>2010-06</date>
+            <label>Ali Jakobson</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:98681:1"/>
+            <pb facs="tcp:98681:1" rendition="simple:additions"/>
+            <p>AN EXACT JOURNAL OF THE Siege of Tangier: FROM The firſt ſitting down of the MOORS before it on <hi>March</hi> 25, 1680.</p>
+            <p>TO The late TRUCE, <hi>May</hi> 19, following.</p>
+            <p>IN <hi>THREE LETTERS,</hi> WRITTEN <hi>By Three Eye-witneſſes of the whole Tranſaction.</hi>
+            </p>
+            <p>Printed at <hi>London</hi> for <hi>Joſeph Hindmarſh</hi> at the <hi>Bull</hi> in <hi>Cornhill.</hi>
+            </p>
+            <p>
+               <hi>M DC LXXX.</hi>
+            </p>
+         </div>
+      </front>
+      <body>
+         <div type="journal">
+            <pb facs="tcp:98681:2"/>
+            <pb n="1" facs="tcp:98681:2"/>
+            <head>AN EXACT JOURNAL OF THE Siege of Tangier.</head>
+            <p>
+               <seg rend="decorInit">O</seg>RDERS were iſſued by the Lord <hi>Inchiquin,</hi> General of <label type="milestone">
+                  <seg type="milestoneunit">day </seg>Thurſday, 25.</label> 
+               <label type="milestone">
+                  <seg type="milestoneunit">month </seg>Mar.</label> 
+               <label type="milestone">
+                  <seg type="milestoneunit">year </seg>1680</label> the Place, for a Captain, Lieutenant, Enſign, and two Serjeants, with Seventy private Souldiers, to be ſent to the Aſſiſtance of <hi>Charles</hi> Fort, then ſurrounded with multitudes of <hi>Moors,</hi> both Horſe and Foot; who falling to their late way of Intrenching, and having not long before made ſome ſmall Works from <hi>Kendal</hi> Fort to <hi>Pond</hi> Fort, with ſome inconſiderable Works betwixt <hi>Charles</hi> Fort and <hi>Henrietta</hi> Fort, as alſo an additional Line towards their old Lines upon <hi>Tiviot</hi> Hill, pointing ſtreight towards <hi>Charles</hi> Fort; they this night advanced their Line from <hi>Kendal</hi> Fort as far as the Pond under <hi>Pond</hi> Fort, and a little farther under the Hill, and that upon <hi>Tiviot</hi> Hill within Caſt of a Hand-Granado of our Stockado's, and that towards <hi>Henrietta</hi> Fort within half Muſquet-ſhot of <hi>Charles</hi> Fort. Our ſmall firing did not much diſturb them, by reaſon of their being always under Ground; they not firing ſcarce one Shot in 24 Hours.</p>
+            <p>They worked very hard in every one of the aforeſaid Trenches, ſtill <label type="milestone">
+                  <seg type="milestoneunit">day </seg>Friday, 26.</label> under covert, 'till ſuch time as it begun to be dark. The next morning they had advanced all the Trenches from <hi>Pond</hi> Fort, to the Brink of a little Hill pointing towards our Lines of Communication, betwixt us and the Caſtle; the other two not much medled withall.</p>
+            <p>The Workmen that wrought all that night retired to their In<g ref="char:EOLhyphen"/>trenchments before day, becauſe the Earth thrown up that night was <label type="milestone">
+                  <seg type="milestoneunit">day </seg>Satur. 27.</label> not ſufficient to ſhelter them from our Shot in the day time, and to break up new Ground they durſt not. The ſame night all we can find they did, was making a croſs Trench near the Pond, by reaſon the former being troubled with water they could not paſs to relieve their Guards.</p>
+            <p>
+               <pb n="2" facs="tcp:98681:3"/>
+They wrought ſo hard all night, that they extended their Trenches <label type="milestone">
+                  <seg type="milestoneunit">day </seg>Sunday, 28.</label> from <hi>Pond</hi> Fort in two Branches near to the Brink of the Hill, and withall made a Blind with Stones from that of <hi>Tiviot-Hill,</hi> in ſo much that not a Gun we had could bear upon them; from whence they fired abundance of Shot, without expoſing themſelves to any danger, and winded their Trenches to paſs betwixt us and <hi>Henrietta</hi> Fort.</p>
+            <p>In ſo much that they cut a Gap in our old Lines of Communication. <label type="milestone">
+                  <seg type="milestoneunit">day </seg>Mond. 29.</label> At night, ſo ſoon as dark, they put all hands to work to mark out their Ground. Being a very clear night, by reaſon of Moon-ſhine, we could very clearly diſcern them in great numbers. We kept ſmall firing from Nine of the clock 'till the Moon ſet, and made them deſiſt their Work.</p>
+            <p>In the morning, before day, they began to work again, and brought <label type="milestone">
+                  <seg type="milestoneunit">day </seg>Tueſd. 30.</label> up three Lines a-breaſt, and wrought ſo hard that day, that they brought their Lines very near the brink of the Hill, betwixt us and <hi>Peterborough</hi> Tower; and the other, near our Lines of <hi>Henrietta.</hi>
+            </p>
+            <p>The ſame day we erected upon our left hand Battery, a Cavallier, at leaſt in height thirty foot above ground, which would contain eight or nine Men very well to fire from, and diſcover the bottom of a great many of their Lines, to the <hi>Moors</hi> great amazement.</p>
+            <p>That night they expoſed themſelves to our ſight, but our Shot did much abate their Work.</p>
+            <p>They continued their Work very hard all day, and about Three of <label type="milestone">
+                  <seg type="milestoneunit">day </seg>Wedn. 31.</label> the clock pitched eight of their Colours in their Lines, <hi>viz.</hi> one all Red under <hi>Kendal,</hi> four with Yellow ſtriped within Piſtol ſhot betwixt us and <hi>Henrietta</hi> Fort, as alſo one all Green, and two all Red.</p>
+            <p>Captain <hi>Trelawney,</hi> our then Governour, planting his Guns to<g ref="char:EOLhyphen"/>wards them, very happily ſhot down one of their Colours, the Green, and tore another of them, ſo that they were forced to remove them.</p>
+            <p>They continued working 'till ſix or ſeven of the clock, but did not work one ſtroke all night.</p>
+            <p>This morning we eſpied their Army marching over the Hill in great Bodies, both Horſe and Foot, Colours flying, but to what intent we <label type="milestone">
+                  <seg type="milestoneunit">day </seg>Thurſday, 1.</label> 
+               <label type="milestone">
+                  <seg type="milestoneunit">month </seg>April</label> knew not. About three of the clock in the Afternoon they all returned, and pitched up their Colours in ſome of the former places, and towards Sun-ſet fell to their work again, ſo that the Trenches on that ſide neareſt <hi>Pond</hi> Fort, before Sun-riſing, were advanced within ſight of our Lines of Communication; and on the other ſide, entred our Line betwixt us and <hi>Henrietta.</hi>
+            </p>
+            <p>They continued their work on both ſides, which they advanced very <label type="milestone">
+                  <seg type="milestoneunit">day </seg>Friday, 2.</label> near to the Breach of our Communication.</p>
+            <p>They advanced their Lines on <hi>Henrietta</hi> ſide, one paſſing towards <label type="milestone">
+                  <seg type="milestoneunit">day </seg>Sat. 3.</label> 
+               <label type="milestone">
+                  <seg type="milestoneunit">day </seg>Sund. 4.</label> the Rock, another towards our Line, to meet their other Line betwixt us and <hi>Peterborough</hi> Tower, and had ten Colours pitched flying in their Lines.</p>
+            <p>They advanced their Line cloſe to our Lines of Communication, and <label type="milestone">
+                  <seg type="milestoneunit">day </seg>Mond. 5.</label> upon the other ſide, towards <hi>Henrietta,</hi> to the Top of the Hill, that we could not paſs, either to or from the Town.</p>
+            <p>They cut through our Line. <label type="milestone">
+                  <seg type="milestoneunit">day </seg>Tueſ. 6.</label>
+            </p>
+            <p>They continued their work, ſo that at night their two Lines met between us and the Town. <label type="milestone">
+                  <seg type="milestoneunit">day </seg>Wedneſ. 7.</label>
+            </p>
+            <p>
+               <pb n="3" facs="tcp:98681:3"/>
+               <hi>Saturday</hi> 10. We perceived between us and <hi>Henrietta</hi> ſome ſorts of Engines made by the Enemy to run upon wheels, whether it was to ſhelter them from our ſhot in time of their work, or otherwiſe, we could not well judge. The ſame day happen'd a diſcontent among our men for want of Wine, with their Bergoo, very near to the height of Mutiny.</p>
+            <p>
+               <hi>Sunday</hi> 11. The Truckles they ſet up betwixt us and <hi>Henrietta,</hi> but our Guns playing well upon them, forced them to remove them the ſame night. About 8 a clock at night they attaqued <hi>Henrietta;</hi> our men did ply their Small-ſhot and Granadoes till 3 a clock in the morn<g ref="char:EOLhyphen"/>ing, and defended the place with much Bravery: But what they got for their pains, we could not diſcover.</p>
+            <p>
+               <hi>Monday</hi> 12. They reſted all day and night, without any attempt to our view.</p>
+            <p>
+               <hi>Tueſday</hi> 13. The <hi>Moors</hi> attempted little or nothing, ſave ſetting up their Colours, to the number of 17 or 18, betwixt us and <hi>Peterburgh</hi> Tower.</p>
+            <p>
+               <hi>Wedneſday</hi> 14. About one or two a clock it fell a Raining, which troubled their Trenches, inſomuch that they were cleanſing them all night.</p>
+            <p>
+               <hi>Thurſday</hi> 15. From the Truckle ſet up for a Blind betwixt us and <hi>Henrietta,</hi> they digged a Trench towards the foundation of <hi>Henrietta,</hi> and continued working very hard.</p>
+            <p>
+               <hi>Friday</hi> 16. They continued working all along their Line betwixt <hi>Henrietta</hi> and <hi>Pond</hi> Fort, making places of Armes in ſeveral places of their Lines, their Drum beating like a Cooper upon a Tub and Pipe playing for moſt part of the time. Laſt night Captain <hi>St. John</hi> ſpeaking to our Governour in Town in the Speaking-Trumpet, the <hi>Moors</hi> fell a hallowing and ſhouting all along their Lines.</p>
+            <p>
+               <hi>Saturday</hi> 17. They continued their work in making their Trenches deeper; they proceeded little or no farther to any purpoſe this day. We made uſe of our Hand-Granadoes out of a ſmall Mortar-piece, which threw ſome of them into their Trenches amongſt their Colours. This night they made a Blind of Stones upon their Trenches, about a mans height, whether for their own, or Colours ſhelter, we could not cer<g ref="char:EOLhyphen"/>tainly tell, but ſuppoſed both.</p>
+            <p>
+               <hi>Monday</hi> 19. They continued working on each ſide, particularly to<g ref="char:EOLhyphen"/>wards <hi>Henrietta,</hi> as if they intended to Gap.</p>
+            <p>
+               <hi>Tueſday, Wedneſday, Thurſay,</hi> Little or no extraordinary Buſineſs was acted by them, ſave the cleanſing of their Trenches, with the augmen<g ref="char:EOLhyphen"/>tation of a ſmall Line between <hi>Charles Fort</hi> and <hi>Henrietta</hi> Lines of Com<g ref="char:EOLhyphen"/>munication.</p>
+            <p>
+               <hi>Friday</hi> 23. At night the <hi>Moors</hi> cut another ſmall Trench through the <hi>Bullet Store,</hi> betwixt us, and their former Trenches: Little or nothing elſe was acted by them, ſaving their bringing a great deal of Timber, but for what uſe is not yet known.</p>
+            <p>
+               <pb n="4" facs="tcp:98681:4"/>
+               <hi>Saturday</hi> 24. The <hi>Moors</hi> cut our Lines betwixt their Trenches and <hi>Peterborough Tower</hi> into gaps, at 5 or 6 yards diſtance each gap, and took away their Blind upon the little Hill near <hi>Pond Fort,</hi> and caſt up the Earth in the form of a Half Round, and likewiſe advanced that Trench begun the night before in the <hi>Bullet-ſtore</hi> about 20 yards towards the <hi>Henrietta.</hi>
+            </p>
+            <p>
+               <hi>Sunday, Monday, Tueſday,</hi> They wrought little or nothing. They ſent a Flag of Truce with a <hi>French-man</hi> and an <hi>Engliſh-man</hi> from <hi>Teinan,</hi> to tell us, that they had undermin'd all our Forts, and if we would not yield our ſelves Priſoners at VVar, every one of us to be Slaves; they would ſet Fire to their Gun-powder within an hour, which was all the time they would allow for an Anſwer; and for our ſatisfaction, brought a <hi>Seguro</hi> from the <hi>Alcaide</hi> for ſome of our Men to view the readineſs of their Mines: VVe ſent two of our Miners, who returning within the limited time, and the <hi>Moors</hi> having the Anſwer of our Commanders in Chief, <hi>That we would ſtand it out to the last;</hi> They ſprung their Mine between 3 and 4 a Clock without any dammage to us, (God be praiſed.)</p>
+            <p>
+               <hi>Friday</hi> 30. They did little or nothing, ſave cleanſing their Trenches of ſome Rain that fell the night before; and this morning they remo<g ref="char:EOLhyphen"/>ved all their Colours to the number of 17 or 18, out of their Trenches, which had ſtood night and day ever ſince the <hi>31th.</hi> of <hi>March</hi> laſt.</p>
+            <p>
+               <hi>Monday, May 30th. Tueſday</hi> and <hi>Wedneſday,</hi> They did attempt little or nothing, ſave making a ſmall Line between the Bullet-ſtore, and our Line from <hi>Henrietta,</hi> I believe for Loop-holes to fire out of, their other Trenches being ſo deep ſince the time the Rain has continued ſo vio<g ref="char:EOLhyphen"/>lent, that they were troubleſom to them.</p>
+            <p>
+               <hi>Thurſday, May</hi> 6. They brought the ſmall Trenches next us to meet, and cut ſome of our old Lines betwixt us and <hi>Henrietta,</hi> heightning their Trenches in the bottom by <hi>Kendal Fort,</hi> where our Shot did much trouble them in mounting their Guards, by reaſon their former Tren<g ref="char:EOLhyphen"/>ches were full of Water.</p>
+            <p>
+               <hi>Saturday, May</hi> 8. They ſwarm'd from their Camp into their Trenches, as we thought to the number of 400 or 500, who fell to cleanſing their Trenches of the Rain. About Two a Clock in the Afternoon, we ſpy'd them halling Carriages of great Guns along <hi>Jews River,</hi> which they placed on a little Hill near to <hi>Henrietta,</hi> from whence they fired their Shot 5 or 6 times againſt the place: We underſtand by ſome of their Balls that went into Town, that they were not much above two pound, which we thought would come as ſhort of Battering down any of our Forts, as their Mine came ſhort of blowing up <hi>Charles Fort.</hi>
+            </p>
+            <p>
+               <hi>Sunday, May</hi> 9. Our People from <hi>Henrietta</hi> called to us, that they could hold out no longer, by reaſon that the <hi>Moores</hi> had made a Breach in their Wall, and that their Mine was under their Fort. At night Cap<g ref="char:EOLhyphen"/>tain <hi>St. John</hi> declar'd the ſame to our Governour his Excellency the Earl of <hi>Inchiquin</hi> for his better ſatisfaction.</p>
+            <p>
+               <pb n="5" facs="tcp:98681:4"/>
+               <hi>Monday, May</hi> 10. A Flag of Truce came out of Town, as we thought with ſome Letters, which was received by the <hi>Moors;</hi> and anſwer was given in the ſame manner; which cauſed the <hi>Alcaid</hi> to draw down all his Forces upon the Lines, and place them one by another like ſo many Sheep, as we thought, to the number of 5 or 6000, the reſult not yet known. They likewiſe began Three more Trenches; One inclining to paſs through the <hi>Bullet-store,</hi> between our Fort and the reſt of their Line; another from <hi>Henrietta,</hi> pointing ſtraight towards us; the Third from the brink of the Hill where they ſprung the laſt Mine, and as we think, laid the Foundation of Three other Mines, which we hoped to be to as little effect as the firſt.</p>
+            <p>
+               <hi>Tueſday</hi> and <hi>Wedneſday,</hi> From every one of the <hi>Moors</hi> former Tren<g ref="char:EOLhyphen"/>ches, they ſeemed to Mine againſt us; inſomuch that by reaſon thereof, and their covering themſelves with Boards, we found our ſelves not in a condition to reſiſt them.</p>
+            <p>
+               <hi>Thurſday, May</hi> 12. We fell into a Conſultation among our ſelves; and conſidering on one ſide, that our Men had declar'd, that if they were not relieved in three days, they would leave us there: and on the other ſide, our having refuſed their giving us quarter, which we could not expect, if they forced us out; by that means likewiſe our Guns might be taken, without being ſpiked and wedged, which would be a great Aſſiſtance to them to batter the Town; wereſolved to quit the Fort on <hi>Friday,</hi> and Fight our way throught; whereupon we ſpiked and wedged all our great Guns, broke and made uſeleſs all the reſt of our Ammunition of Warr, putting them amongſt our Powder which we made ready to Blow up ſo ſoon as we ſhould be gone out of the Fort; which we abandoned about 7 or 8 of the Clock, but we found their Trenches ſo deep that we could not make the defence we ex<g ref="char:EOLhyphen"/>pected; ſo that from a 170 odd men we brought off but 44, Captain <hi>Trelawney</hi> being cut to pieces amongſt the reſt.</p>
+            <p>
+               <hi>The Town made a Sally at the ſame time to favour us, as follows: Forlorn Hope,</hi>
+               <list>
+                  <item>Captain <hi>Humes,</hi>
+                  </item>
+                  <item>Lievtenant <hi>Pierſon,</hi>
+                  </item>
+                  <item>Lievtenant <hi>Bagley.</hi>
+                  </item>
+                  <item>4. <hi>Serjeants,</hi>
+                  </item>
+                  <item>80 <hi>Soldiers.</hi>
+                  </item>
+               </list>
+            </p>
+            <p>Main Body 150 yards in the Reer of the <hi>Forlorn Hope.</hi>
+               <list>
+                  <item>Major <hi>Boynton,</hi>
+                  </item>
+                  <item>Captain <hi>Gyles,</hi>
+                  </item>
+                  <item>Captain <hi>Eley,</hi>
+                  </item>
+                  <item>Captain <hi>Winkefield,</hi>
+                  </item>
+                  <item>Lievtenant <hi>Talbot,</hi>
+                  </item>
+                  <item>Lievtenant <hi>Grimes,</hi>
+                  </item>
+                  <item>Lievtenant <hi>Bellinger,</hi>
+                  </item>
+                  <item>Enſign <hi>Dean,</hi>
+                  </item>
+                  <item>Enſign <hi>Adams.</hi>
+                  </item>
+                  <item>8 <hi>Serjeants,</hi>
+                  </item>
+                  <item>128 <hi>Soldiers.</hi>
+                  </item>
+               </list>
+            </p>
+            <p>Reſerve 100 yards in the Reer of the Main Body.
+<list>
+                  <item>Captain <hi>Munereſh,</hi>
+                  </item>
+                  <item>Captain <hi>Barber,</hi>
+                  </item>
+                  <item>Lievtenant <hi>Tate,</hi>
+                  </item>
+                  <item>Enſign <hi>Bowen,</hi>
+                  </item>
+                  <item>Enſign <hi>Withers,</hi>
+                  </item>
+                  <item>4 <hi>Serjeants,</hi>
+                  </item>
+                  <item>104 <hi>Soldiers,</hi> 6 <hi>deep.</hi>
+                  </item>
+               </list>
+            </p>
+            <p>
+               <pb n="6" facs="tcp:98681:5"/>
+On the Right of the Reer towards the <hi>Burying place</hi> 40 yards.
+<list>
+                  <item>Captain <hi>Leſley,</hi>
+                  </item>
+                  <item>Lievtenant <hi>Ogleby,</hi>
+                  </item>
+                  <item>Enſign <hi>Winkefield,</hi>
+                  </item>
+                  <item>3 <hi>Serjeants,</hi>
+                  </item>
+                  <item>66 <hi>Soldiers.</hi>
+                  </item>
+               </list>
+            </p>
+            <p>In the <hi>Ravellin</hi> without <hi>Peterborough Tower.</hi>
+               <list>
+                  <item>Captain <hi>Row,</hi>
+                  </item>
+                  <item>Lievtenant <hi>Fitzgerald,</hi>
+                  </item>
+                  <item>Enſign <hi>Bowen,</hi>
+                  </item>
+                  <item>4 <hi>Serjeants,</hi>
+                  </item>
+                  <item>66 <hi>Soldiers.</hi>
+                  </item>
+               </list>
+            </p>
+            <p>The <hi>Pallizado</hi> without the <hi>Ravellin</hi> was lined with Seamen, Commanded by Lievtenant <hi>Sprag,</hi> and Lievtenant <hi>Fox.</hi>
+            </p>
+            <p>The Sally was at 8 a Clock in the Morning, and the men of <hi>Charles Fort</hi> were to begin, and our <hi>Forlorne</hi> Commanded by Captain <hi>Humes,</hi> was to Advance to the Enemies Trench, and the other Captains to advance according to their ſeveral poſturs.</p>
+            <p>After this Action was over, the <hi>Moors</hi> took our Guns that were in <hi>Charles Fort,</hi> and unſpik'd them, &amp; clear'd them; and with them began to play upon <hi>Pole Fort</hi> and the Town: Upon which the Governour cal'd a Councel of <hi>Officers</hi> to conſult what was beſt to be done, and ſinding that we could not maintain <hi>Pole Fort,</hi> and if we ſhould not abandon it, we ſhould loſe 100 men with three Officers: We ſent and Treated with the <hi>Alcade,</hi> being reſolved to quit <hi>Pole Fort,</hi> and <hi>Norwood</hi> Re<g ref="char:EOLhyphen"/>doubt with as much Honour as poſſibly we could at that time. The <hi>Alcade</hi> concented to let us carry off our Ammunition and our <hi>Pally<g ref="char:EOLhyphen"/>zadoes,</hi> and agreed to a Ceſſation for four Months, in which time in all likelihood they will be content to conſent to an Honourable Peace.</p>
+            <p>The Out-limets are agreed on by each party how far we ſhall go, and no further.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+         <div type="letter">
+            <pb n="7" facs="tcp:98681:5"/>
+            <head>A LETTER FROM Tangier-Bay The <hi>17th</hi> of <hi>May,</hi> 1680.</head>
+            <p>ON <hi>Thurſday</hi> the <hi>13th</hi> inſtant at night, calm, Captain <hi>Trelawny</hi> called to the Town, by a Speaking Trum<g ref="char:EOLhyphen"/>pet, acquainting my Lord <hi>Inchiquin,</hi> they could no longer defend themſelves, the <hi>Moors</hi> having ſeveral Mines, and that his Men mutinied, ſo that they deſigned to quit <hi>Charles</hi> Fort next morning at Eight of the Clock, and endeavour their Eſcape to the Town; my Lord deſired them to be ready at Six, they anſwered they could not be ready before Seven. My Lord called two Councils of War, and it was agreed to make a Sally at the ſame hour to aſſiſt their retreat, and ordered that Captain <hi>Geo. Humes,</hi> ſecond Captain of the 4 <hi>Scotch</hi> Companies which came from <hi>Ireland</hi> in the <hi>James</hi> and <hi>Swan</hi> Frigats, ſhould Command the Forlorn hope of about 80 men to attacque the Trenches, and Major <hi>Boynton,</hi> Captain <hi>Giles, &amp;c.</hi> to Command the main Body which lay half way between the Trenches and the Palaſado under <hi>Peterburough</hi> Tower, and 2 Lieutenants to Command Parties in each Flanck of the Forlorn-hope, the Reſerve placed within the Spure and Palaſado, Commanded by Lieutenant <hi>Spragg,</hi> being Seamen; and the <hi>Bonnetta</hi> Sloop, two Bark<g ref="char:EOLhyphen"/>alongoes and Ships Boats at the ſame time, to be near <hi>Giles</hi> Fort near <hi>Whithy,</hi> in which was 13 men (to endeavour to bring off the Vice-Admiral and Sea Commanders being in the Sloop.) <hi>Henrietta</hi> Fort it ſeems Capitulated 2 or 3 days before, the <hi>Moors</hi> carrying them freſh Water and Milk, yet
+<pb n="8" facs="tcp:98681:6"/>
+kept the Men entire in the Fort until they pleaſed to take them out, having Mined under them, which being unknown to the Town or <hi>Charles</hi> Fort, the latter ſtill by their Trumpet told them their deſign, which it's believed might give the <hi>Moors</hi> ſome notice of their leaving their Forts though ſpoken in <hi>Iriſh;</hi> the <hi>14th</hi> at 7 in the morning the Garriſon quitted <hi>Charles</hi> Fort, being one hundred ſeventy ſix men, and Cap<g ref="char:EOLhyphen"/>tain <hi>Trelawny</hi>'s little boy, leaving the Guns double ſhotted, ſpiked and wedged with ſteel, as alſo one little Morter-piece, but put their Ammunition and beſt things into the Mine, with a train of Powder and 2 Inches of Match lighted, one Inch being ſpent before they got out of the Gate, and by their coming into the <hi>Moors</hi> firſt Trenches the Mine ſprang, they got well over 2 Trenches, but that next to the Town be<g ref="char:EOLhyphen"/>ing deepeſt, was at leaſt 14 Foot with water and durt in the bottom, by reaſon of the late Rains; the firſt that came in<g ref="char:EOLhyphen"/>to it, ſome got over by the help of the other, and ſo eſcaped meeting with places not ſo difficult, but notwithſtanding Captain <hi>Geo. Humes</hi> with the Forlorn-hope behaved them<g ref="char:EOLhyphen"/>ſelves very bravely, clearing the Trenches with hand Grana<g ref="char:EOLhyphen"/>does, yet no more but 39 came off, the reſt being cut in pieces in the great Trench, ſave 14 and the little Boy, whom they took alive: Amongſt the ſlain was Captain <hi>Trelawny,</hi> who brought up the Rear, and was kill'd in helping the little Boy up (as is ſaid.) Captain St. <hi>John</hi> got over firſt, but was ſhot through the body when he was near our Paliſado, it's hoped he may recover, the Lieutenant and Enſign eſcaped. Our Boats at this time being near <hi>Giles</hi> Fort, could not per<g ref="char:EOLhyphen"/>ſwade the 13 Men to run into the water, they ſaying the ſhot flew ſo thick they ſhould be all kill'd; ſave one man which ſwam off, the reſt ſurrendred themſelves to the <hi>Moors, viz.</hi> 12 of <hi>Giles</hi> Fort, 30 in <hi>Henrietta,</hi> and 14 and the Boy of <hi>Charles</hi> Fort, in all 57 were made Captives, and about 125 or more ſlain. The next day the <hi>Alcade</hi> ſent in a flag of truce to fetch our dead, whoſe bodies were accordingly brought in, but without their heads, they being all cut off, which in the afternoon the <hi>Alcade</hi> ſent in alſo. In the <hi>Adventures</hi> Boat was kill'd a Voluntier called <hi>Wray,</hi> Brother to Sir <hi>Boucher Wray,</hi> who was yeſterday buried in <hi>Tangier</hi> Church, with his Brother Captain <hi>Trelawny.</hi> The <hi>Moors</hi> are now placing their
+<pb n="9" facs="tcp:98681:6"/>
+Guns againſt <hi>Pools</hi> Fort, and have already ſent ſeveral ſhot through the Wall, they have three Guns mounted of ſeve<g ref="char:EOLhyphen"/>ral natures, of 9, of 6, and of 3 pounders; it's believed they have brought ſome from <hi>Arzilla.</hi> We are uſing all means poſſible to defend <hi>Pools</hi> Fort, but it is ſomewhat doubt<g ref="char:EOLhyphen"/>ful it will fall into the Enemies hands, with thoſe ſo near the Gate, as well <hi>Norwoods</hi> Redoubt, and the other.</p>
+            <p>
+               <hi>May</hi> 18. This morning appears in our ſight a Battery upon the Hill, <hi>South-weſt</hi> from <hi>Pools</hi> Fort, and about half a Piſtol ſhot off they have Paliſadoed it round, we believe with thoſe we left at <hi>Charles</hi> Fort, and are now hard at work dig<g ref="char:EOLhyphen"/>ing. This Battery looks into the upper Caſtle, and upon my Lords Houſe; they have placed one Gun in it already, 2 or 3 days will ſhew us the Effect of this, which though it be nigh the <hi>Iriſh</hi> Battery, yet cannot play upon it, for the brow of the Hill over it. We yet continue to relieve <hi>Pools</hi> Fort every day, but theſe People having very dextrous Miners from <hi>Al<g ref="char:EOLhyphen"/>gier</hi> and the <hi>Levant</hi> (as is ſaid) it will not be eaſie to hold any of the Forts; What deſign they may have upon the Town is uncertain, but to all appearance it is in danger, if they continue in their approaches, except we had men ſuffi<g ref="char:EOLhyphen"/>cient for to make Sallies, eſpecially Horſe; for want of which our Men very much dread theirs: Captain <hi>Moncreſs</hi> and a<g ref="char:EOLhyphen"/>nother Captain ſhot in the Leggs, Lieutenant <hi>Bayly</hi> is ſhot through the Body which is doubted to be mortal, Enſign <hi>Carr</hi> is ſhot through the Wriſt, theſe are <hi>Scotch;</hi> Captain St. <hi>John</hi> is likely to recover. This is all the News I can give you, which I know to be plain and downright truth.</p>
+         </div>
+         <div type="journal">
+            <pb n="10" facs="tcp:98681:7"/>
+            <head>A SECOND JOURNAL</head>
+            <p>O <hi>Mar Ben Haddu Alcaide</hi> of <hi>Alcaſſer,</hi> encouraged by former ſuc<g ref="char:EOLhyphen"/>ceſſes, <label type="milestone">
+                  <seg type="milestoneunit">month </seg>March</label> 
+               <label type="milestone">
+                  <seg type="milestoneunit">day </seg>25</label> 
+               <label type="milestone">
+                  <seg type="milestoneunit">year </seg>1680</label> came againſt <hi>Tangier</hi> with an Army of about ſeven thouſand Men.</p>
+            <p>He Firſt brake Ground and began to Intrench, the deſign of the <label type="milestone">
+                  <seg type="milestoneunit">month </seg>March</label> 
+               <label type="milestone">
+                  <seg type="milestoneunit">day </seg>26</label> Enemy being to Intrench between <hi>Charles, Henrietta,</hi> and <hi>Giles</hi> Forts. His Excellency, our Governour, took all poſſible care, to furniſh them with the beſt of his Men, with Ammunitions of War and Proviſions requiſite for five Months Siege, hoping in that time, that either the <hi>Moors</hi> would be tired out, or we furniſhed with Succours from <hi>Eng<g ref="char:EOLhyphen"/>land</hi> to raiſe the Siege. The <hi>Moor</hi> worketh incredibly faſt, their Trenches being in all places deep, and in moſt places treble a mans height. They did not cut off our Communication from the ſaid Forts; until <hi>April</hi> the <hi>8th,</hi> all which time we were night and day firing with great and ſmall ſhot; but they only ſmall.</p>
+            <p>From the beginning of this Siege, the <hi>Moors</hi> began a Mine from the <hi>Southward</hi> of <hi>Charles</hi> Fort, and We a Countermine. The mouth of their Mine was about two hundred Yards from the Fort.</p>
+            <p>At night, the <hi>Moors</hi> attacqued <hi>Henrietta</hi> Fort, deſigning to ſap <label type="milestone">
+                  <seg type="milestoneunit">month </seg>April</label> 
+               <label type="milestone">
+                  <seg type="milestoneunit">day </seg>11</label> it. They brought a Shed or Penthouſe of Timber againſt the Walls of the Fort, that under the cover of it, they might digg a hole and ſo blow it up, but were repelled with a very conſiderable loſs. When this way ſucceeded not, the <hi>Moors</hi> began a Mine againſt it, drilling through the Earth as they went, that they might not miſtake the Fort.</p>
+            <p>The <hi>Alcaide</hi> ſent to ſummon <hi>Charles</hi> Fort, telling them that he had a Mine ready to Spring, and threatning if they refuſed to ſurren<g ref="char:EOLhyphen"/>der, <label type="milestone">
+                  <seg type="milestoneunit">day </seg>29</label> to blow them up with it. Captain <hi>Trelawny</hi> and Captain St. <hi>John,</hi> the Commanders of the Fort, returned this Anſwer, That he ſhould do his worſt, they were ſent thither to maintain the Fort, and not to yield it. The <hi>Alcaide</hi> ſent again, deſiring them if they would not give credit to the danger he informed them of, they ſhould ſend out two of their Men to view his Mine. They did ſo, and upon the return of their Men, they made no other Anſwer than Vollies of ſmall ſhot, and diſ<g ref="char:EOLhyphen"/>playing of their <hi>Engliſh</hi> Colours in defiance.</p>
+            <p>
+               <pb n="11" facs="tcp:98681:7"/>
+About Eight of the Clock that day, the <hi>Moors</hi> Mine ſprang, but without ſucceſs, ſhort at leaſt of the Fort thirty yards.</p>
+            <p>The <hi>Alcaide</hi> ſent to Complement Sir <hi>Palmes Fairbon</hi> upon his <label type="milestone">
+                  <seg type="milestoneunit">day </seg>30</label> Arrival, and to tell us, that though this Mine did not take effect, the next might. That he was there for a long Life or a ſhort, and that the King his Maſter commanded him, not to ſtir from the Field, till he had taken the Forts, and reduced the Garriſon to the condition it was in when the <hi>Portuguez</hi> had it, and that if they had any mind to make an end of the War, they ſhould ſurrender the beſieged Forts, and quit the reſt.</p>
+            <p>The <hi>Moors</hi> played againſt <hi>Henrietta</hi> Fort with a <hi>Falcon,</hi> Shooting a <label type="milestone">
+                  <seg type="milestoneunit">month </seg>May</label> 
+               <label type="milestone">
+                  <seg type="milestoneunit">day </seg>8</label> two pound Ball.</p>
+            <p>
+               <hi>Henrietta Fort</hi> inform'd <hi>Charles Fort</hi> of their diſtreſs, the <hi>Moors</hi> 
+               <label type="milestone">
+                  <seg type="milestoneunit">day </seg>11</label> having a Mine to ſpring under their Fort, and <hi>Charles Fort</hi> by their Speaking-Trumpet inform'd his Excellency, who preſently ſent out to the <hi>Alcaide,</hi> to offer the Surrender of <hi>Henrietta Fort,</hi> on condition the Men might return to the Town with Bagg and Baggage, <hi>(</hi>or at leaſt Naked) the <hi>Alcaide</hi>'s anſwer was, that he wanted not Stone-walls, but Slaves for his Maſters Service, that he could Deſtroy them when he pleaſed. All that he promiſed was, that if they would yield, he would give them good Quarter.</p>
+            <p>The <hi>Moors</hi> played a ſix Pounder againſt <hi>Henrietta,</hi> and made a little <label type="milestone">
+                  <seg type="milestoneunit">day </seg>12</label> Breach; this night, <hi>Charles Fort</hi> Spake to us in <hi>Iriſh</hi> that <hi>Henrietta</hi> was diſtreſſed, the <hi>Moors</hi> having Intrenched nearer, and begun three Mines, deſiring his Excellencies aſſiſtance to further their Retreat to the Town.</p>
+            <p>Reſolved at a Council of Warr, that <hi>Charles Fort</hi> be quitted the <label type="milestone">
+                  <seg type="milestoneunit">day </seg>13</label> next Morning by ſeven a Clock, that we ſhould Sally out with about five hundred Men in five parties, Forlorn, Main-body, a Reſerve, a Right and a Left Wing, and receive them, to further their Retreat. That the Men of <hi>Giles Fort</hi> ſhould in the Hurry make their eſcape to the Sea-ſide, where a Sloop and all the Boats of the Fleet lay ready to receive them. About Eight or Nine at Night <hi>Henrietta Fort</hi> ſurren<g ref="char:EOLhyphen"/>der'd.</p>
+            <p>About break of day, the <hi>Moors</hi> Blew up <hi>Henrietta Fort</hi> with their Mine. About ſeven a Clock, the Men of <hi>Charles Fort</hi> having Spiked <label type="milestone">
+                  <seg type="milestoneunit">day </seg>14</label> and Wedged their great Guns, broke their ſmall Arms, put all their Powder, and Hand-Granadoes, into the Countermine, and rendred all the Proviſion and Ammunition as unſerviceable to the Enemy as poſſibly could be. And having ſet fire to their Train, made their way towards the <hi>Mooriſh</hi> Trenches; Captain St. <hi>John</hi> leading the Van with the <hi>Granadiers,</hi> and Captain <hi>Trelawny</hi> bringing up the Rear, our Forlorn at the ſame time conſiſting of Eighty Men, Advancing towards the Trenches. Two Trenches our <hi>Charles Fort</hi> Men ſafely paſt, but the third being very deep and watry, and a great number of Enemies preſſing on hard upon them, a Hundred and twenty four were there kill'd, Fourteen taken Priſoners, only Forty ſeven eſcaped;
+<pb n="12" facs="tcp:98681:8"/>
+among which Captain St. <hi>John (</hi>but afterwards wounded in the Side<hi>)</hi> and all the other Officers, except the brave and never enough to be lamented or Commended <hi>Trelawny.</hi> Our Countermine took Fire, and blew up the left <hi>Baſtian,</hi> but the Granadoes did not. Our For<g ref="char:EOLhyphen"/>lorn did bravely under the Command of Captain <hi>Hume,</hi> a <hi>Scotch</hi> Officer; we kill'd ſeveral <hi>Mooriſh Horſe-men,</hi> an <hi>Alcaide</hi> of great note, called <hi>Garbooſe,</hi> who endeavoured to cut off our Men that eſcaped the Trenches. When the Forlorne Retreated, one brave <hi>Moor</hi> Charged them all, but his Horſe riding over Captain <hi>Home,</hi> ſtumbled at him and threw him down, our men Clubb'd their Muskets and preſently diſpatched him.</p>
+            <p>In the Forlorn three or four were kill'd ſeveral wounded, a Cap<g ref="char:EOLhyphen"/>tain Shot in the Legg, and a Lieutenant Shot in the Body; one Man Swam to the <hi>Vice-Admiral</hi>'s Boat from <hi>Giles Fort,</hi> the reſt pretending they could not Swim, thought it better to commit themſelves te the mercy of the <hi>Moors</hi> than the <hi>Sea.</hi>
+            </p>
+            <p>One <hi>Voluntier</hi> was kill'd, and about ten Men, and two and twenty Wounded in the Boats.</p>
+            <p>We got leave of the <hi>Alcaide</hi> to fetch in our Dead, all miſerably <label type="milestone">
+                  <seg type="milestoneunit">day </seg>15</label> Mangled, and without their Heads, which were afterwards brought in to us, and Buried with the Bodies.</p>
+            <p>The Enemy from the ſide of an Hill near <hi>Charles Fort,</hi> played a <label type="milestone">
+                  <seg type="milestoneunit">day </seg>16</label> twelve Pounder againſt <hi>Pole Fort,</hi> and hit it five or ſix times.</p>
+            <p>The Enemy began a Trench from <hi>Monmouth,</hi> and another from <label type="milestone">
+                  <seg type="milestoneunit">day </seg>17</label> 
+               <hi>Pond Fort (</hi>I mean the places where they formerly ſtood<hi>)</hi> deſigning to Intrench between the Town and <hi>Pole Fort,</hi> and <hi>Norwoods</hi> redoubt.</p>
+            <p>They raiſed two Batteries, within an Hundred and fifty yards of <label type="milestone">
+                  <seg type="milestoneunit">day </seg>18</label> 
+               <hi>Pole Fort,</hi> and Fired twice, but the Flag of truce comming in, all fur<g ref="char:EOLhyphen"/>ther hoſtility ceaſed.</p>
+            <p>His Excellency made a Truce with the <hi>Alcaide</hi> for four Months, in <label type="milestone">
+                  <seg type="milestoneunit">day </seg>19</label> in order to a laſting Peace, upon the condition the <hi>Alcaide</hi> was to withdraw his Army and great Guns within three dayes, and to re<g ref="char:EOLhyphen"/>move his Batterie.</p>
+            <p>We were in the ſame time to Demoliſh <hi>Pole Fort</hi> and <hi>Norwoods</hi> re<g ref="char:EOLhyphen"/>doubt, and to have the liberty of feeding our Cattle within fixt bounds.</p>
+            <p>His Excellency had an enterview with the <hi>Alcaide,</hi> hoping to win <label type="milestone">
+                  <seg type="milestoneunit">day </seg>22</label> his friendſhip, by ſhewing ſo great a confidence as the truſting his per<g ref="char:EOLhyphen"/>ſon with him, who entertain'd him civilly, diſmiſt him ſafely, and ſa<g ref="char:EOLhyphen"/>luted him with Nine Guns of <hi>Charles Fort,</hi> which he had Unſpiked and Unwedged.</p>
+            <p>The <hi>Alcaide</hi> drew up all his Army, and made them Fire three great Vollies of ſmall Shot, and ſo went their wayes.</p>
+            <p>In the three dayes the <hi>Alcaide</hi> ſtaid after the Truce, we had free en<g ref="char:EOLhyphen"/>tercource with the <hi>Moors,</hi> they coming freely in to us, and we going ſecurely among them.</p>
+            <p>Two Boyes belonging to our Garriſon, and a Seaman, went out and turn'd <hi>Moors.</hi>
+            </p>
+            <p>
+               <pb n="13" facs="tcp:98681:8"/>
+One of our Men belonging to <hi>Henrietta Fort</hi> is turn'd <hi>Moor,</hi> and made Maſter Gunner.</p>
+            <p>A <hi>Moor</hi> run away to us, who informs us, that the <hi>Moors</hi> have loſt <label type="milestone">
+                  <seg type="milestoneunit">day </seg>24</label> three <hi>Alcaides,</hi> and ſeveral <hi>Almuckades,</hi> that is, Captains, a great many <hi>Moors</hi> kill'd, two died of their Wounds the day he came in, that the <hi>Alcaide</hi> had drawn his great Guns into a Wood in ſight of us, where he left them till his next return, which would be ſhortly after the expiration of the Truce.</p>
+            <p>In the whole ſervice, we had about an Hundred and ſixty Men kill'd, Fifty three taken Slaves, among which is Lieutenant <hi>Wilſon,</hi> Comman<g ref="char:EOLhyphen"/>der of <hi>Henrietta Fort.</hi>
+            </p>
+            <p>The <hi>Moors</hi> grow a formidable Enemy, being improved in all the Arts of War, as Mining, Sapeing, Intrenching, Scaling and Bat<g ref="char:EOLhyphen"/>tering.</p>
+            <p>In <hi>Charles Fort</hi> they took thirteen great Guns, ſeven they had taken formerly from other Forts.</p>
+            <p>They have a Morter-piece likewiſe taken in <hi>Charles Fort,</hi> and three thouſand three hundred hand Granadoes, with an incredible number of great Shot, part from <hi>Charles Fort,</hi> the reſt which we have in many years Shot at them, which they carefully gather'd up and kept.</p>
+            <p>After the expiration of this Truce, it is to be feared, they will not only Batter the Town from <hi>Pole Fort,</hi> an overlooking piece of Ground, but from a Battery on the ſand Hills, will hinder all imbarkation ri<g ref="char:EOLhyphen"/>ding in the Mould, from whence alſo they may Batter down all the Houſes and Stables on the Mould.</p>
+            <p>We have three Forts left, as <hi>Cambridge, Fountain,</hi> and <hi>Bridges Fotr,</hi> which be not defenſible, when it ſhall pleaſe the Enemy to deſign to reduce them.</p>
+            <p>So that we ſhall be brought to the condition the <hi>Portuguez</hi> were in, but we can't bring the <hi>Moors</hi> to the ſame they were in, being in my ſhort abode of four years here, from a cowardly and inconſiderable Enemy, turn'd to a puiſſant and formidable Foe.</p>
+            <p>All that we have to hope is theſe three things; either that the <hi>Moors</hi> will make a Peace with us, as the <hi>Alcaide</hi> ſeems inclined, or that the King of the Countrey will be ingaged in civil Wars, and ſo have other occaſion to imploy his Force, or that our King will ſend ſuch ſtrong recruits, as we may Sally out and beat them from their Tren<g ref="char:EOLhyphen"/>ches and great Guns, when next they Beſiege us.</p>
+            <p>The number of our Soldiers is few, but of Fighting Men much leſs, many being ſuperannuated, but more diſabled by Debauchery. The Freemen be not to be truſted in caſe of diſtreſs, they being not under Military Command.</p>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
